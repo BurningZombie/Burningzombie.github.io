@@ -1,0 +1,14 @@
+h1{
+    color: green;
+    font-size: 36px;
+}
+.red{
+    color: red;
+}
+body{
+    font-family:sans-serif;
+    background-color: aquamarine;
+}
+img{
+    max-width:100%;
+}
